@@ -33,12 +33,13 @@ function Hero() {
             <img src={linkedinIcon} alt="LinkedIn icon" />
           </a>
         </span>
+        <span>
         <p className={styles.description}>
         I am always eager to learn, tackle real-world challenges,
         and actively seek new job opportunities to apply my skills
         and grow professionally.
         </p>
-        
+        </span>
         <a href={CV}>
           <button className="hover"download>Resume</button>
         </a>

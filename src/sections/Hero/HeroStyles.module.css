@@ -10,10 +10,6 @@
   .hero {
     max-width: 200px;
   }
-
-  .description {
-    text-align: center;
-  }
   span {
     display: flex;
     gap: 25px;
