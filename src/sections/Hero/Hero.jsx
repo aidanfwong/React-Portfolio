@@ -38,8 +38,9 @@ function Hero() {
         and actively seek new job opportunities to apply my skills
         and grow professionally.
         </p>
-        <a href={CV} download>
-          <button className="hover">Resume</button>
+        
+        <a href={CV}>
+          <button className="hover"download>Resume</button>
         </a>
       </div>
     </section>

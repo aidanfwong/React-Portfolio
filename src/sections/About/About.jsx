@@ -3,7 +3,7 @@ function About() {
   return (
     <section id="projects" className={styles.container}>
       <h1>About Me</h1>
-      
+      <span>
       <p className={styles.paragraph}>
         Hello! I'm Aidan Wong, a computer science student at the University of Waterloo
         with a passion for technology and innovation.
@@ -16,6 +16,7 @@ function About() {
          <a href="https://github.com/aidanfwong" target="_blank"> GitHub</a>. 
         Let's create something amazing together!
         </p>
+        </span>
     </section>
   );
 }
