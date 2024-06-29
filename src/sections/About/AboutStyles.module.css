@@ -24,3 +24,11 @@ span {
     }
   }
 }
+
+.link {
+  text-decoration: none;
+}
+
+.links {
+  text-decoration: none;
+}
